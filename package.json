@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "thirdweb": "^5.16.0"
+    "thirdweb": "^5.93.5"
   },
   "devDependencies": {
     "@types/node": "^18.11.17",
